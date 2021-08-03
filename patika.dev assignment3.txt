@@ -9,7 +9,6 @@ film tablosunda bulunan title sütunundaki film isimlerinden en az 4 adet büyü
 film tablosunda bulunan tüm sütunlardaki verilerden title 'C' karakteri ile başlayan ve uzunluğu (length) 90 dan büyük olan ve rental_rate 2.99 olan verileri sıralayınız.
 
 
-Kolay Gelsin.
 
 select country from country where country like ('A%a');
 select country from country where country like ('_____%n');
